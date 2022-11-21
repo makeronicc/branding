@@ -5,3 +5,7 @@ This repository contains branding and assets for Makeroni meetups, events, and s
 ## fonts
 
 `brew install font-lobster` is your friend.
+
+## logo
+
+See the [`assets`](./assets/) folder.
